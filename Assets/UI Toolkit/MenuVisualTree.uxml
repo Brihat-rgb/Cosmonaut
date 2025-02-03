@@ -1,0 +1,9 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Stylesheets/MenuStyleSheet.uss?fileID=7433441132597879392&amp;guid=cb5a1adee82484e43b65355b098ed902&amp;type=3#MenuStyleSheet" />
+    <engine:VisualElement name="Container" style="flex-grow: 1; align-self: center; justify-content: flex-end; align-content: flex-start; align-items: flex-end; flex-direction: row; margin-right: 0; margin-left: 0; padding-bottom: 100px;">
+        <engine:Button name="Capsule" class="button" />
+        <engine:Button name="Cube" class="button" style="background-image: url(&quot;project://database/Assets/UI%20Toolkit/UI%20Resources/viber_image_2025-01-21_08-08-44-816.png?fileID=2800000&amp;guid=18b602c4756c9614d912c8dd4430f891&amp;type=3#viber_image_2025-01-21_08-08-44-816&quot;);" />
+        <engine:Button name="Cylinder" class="button" style="background-image: url(&quot;project://database/Assets/UI%20Toolkit/UI%20Resources/viber_image_2025-01-21_08-08-45-685.png?fileID=2800000&amp;guid=91eab49455a02ec45b15374fe81385d2&amp;type=3#viber_image_2025-01-21_08-08-45-685&quot;);" />
+        <engine:Button name="Sphere" class="button" style="background-image: url(&quot;project://database/Assets/UI%20Toolkit/UI%20Resources/viber_image_2025-01-21_08-08-42-662.png?fileID=2800000&amp;guid=5d266f8b9aa3c534b94a590738f0ff02&amp;type=3#viber_image_2025-01-21_08-08-42-662&quot;);" />
+    </engine:VisualElement>
+</engine:UXML>

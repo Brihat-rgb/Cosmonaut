@@ -1,0 +1,24 @@
+.button {
+    font-size: 24px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 125px;
+    height: 125px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition-duration: 0.3s;
+    background-color: rgba(174, 167, 167, 0.73);
+    background-image: url("project://database/Assets/UI%20Toolkit/UI%20Resources/viber_image_2025-01-21_08-08-43-836.png?fileID=2800000&guid=d8e323ac9a19fe44fa39edc8d6e8f576&type=3#viber_image_2025-01-21_08-08-43-836");
+}
+
+.button:hover {
+    background-color: rgba(43, 37, 37, 0.8);
+    width: 150px;
+    height: 150px;
+}
+
+.button:focus {
+    background-color: rgba(43, 37, 37, 0.8);
+}

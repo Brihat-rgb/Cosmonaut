@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Stylesheets/MarkerMenuStyleSheet.uss?fileID=7433441132597879392&amp;guid=e7c93a0e5b7645b468e2a7e21fe55d57&amp;type=3#MarkerMenuStyleSheet" />
+    <engine:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: row; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; align-items: center; justify-content: space-between;">
+        <engine:Button text="&lt;" name="Left" class="button" />
+        <engine:Button text="&gt;" name="Right" class="button" />
+        <engine:Button text="i" name="Info" class="button" style="left: 20px; bottom: 20px; position: absolute;" />
+    </engine:VisualElement>
+</engine:UXML>
